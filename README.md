@@ -6,7 +6,7 @@
 
 + ```pkg update && pkg upgrade```
 + ```pkg install git -y```
-+ ```git clone https://github.com/X-SIAM -X/BannerX.git```
++ ```git clone https://github.com/X-SIAM/BannerX.git```
 + ```cd BannerX```
 + ```chmod +x *```
 + ```bash setup.sh```
@@ -14,7 +14,7 @@
 
 ## Single line command
 ```
-pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/X-SIAM -X/BannerX.git && cd BannerX && chmod +x * && bash setup.sh && exit
+pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/X-SIAM/BannerX.git && cd BannerX && chmod +x * && bash setup.sh && exit
 ```
 ## First Look
 ![photo](https://e.top4top.io/p_18889bda10.jpg)
