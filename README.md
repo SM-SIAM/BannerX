@@ -23,8 +23,8 @@ pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/
 
 ## Follow US:
 
-+ [Instagram](https://instagram.com/hackerxmr/)
-+ [YouTube](https://youtube.com/c/Sololex/)
-+ [Github](https://github.com/X-SIAM -X/)
++ [Instagram](https://instagram.com/mdsiamahmed6252?igshid=OGQ5ZDc2ODk2ZA==/)
++ [YouTube](https://www.youtube.com/@SM_SIAM_BD/)
++ [Github](https://github.com/sm-siam/)
 
 ### Created By 'X-SIAM -X'
