@@ -27,4 +27,4 @@ pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/
 + [YouTube](https://www.youtube.com/@SM_SIAM_BD/)
 + [Github](https://github.com/sm-siam/)
 
-### Created By 'X-SIAM -X'
+### Created By 'X-SIAM'
